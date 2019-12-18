@@ -1,3 +1,14 @@
+## Admin panel for photography site
+
+- Basic authorization. Login/Password - any.
+- Detail post page and upload.
+- Drag-n-drop upload images.
+- Drag-n-drop photo sorting.
+- Material-ui
+- JSS
+- React + React-admin (Redux form).
+- FAKE Api (JSON).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
