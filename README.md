@@ -2,9 +2,9 @@
 
 - Basic authorization. Login/Password - any.
 - Detail post page and upload.
-- Custom React-admin plugin (Integrating react-beautiful-dnd drag’n’drop module into react-admin). 
 - Drag-n-drop upload images.
 - Drag-n-drop photo sorting.
+- Custom React-admin plugin (Integrating react-beautiful-dnd drag’n’drop module into react-admin). 
 - Material-ui
 - JSS
 - React + React-admin (Redux form).
